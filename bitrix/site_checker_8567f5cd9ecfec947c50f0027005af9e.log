@@ -1,0 +1,132 @@
+2019-Mar-03 18:03:24 Наличие необходимых модулей php (check_php_modules): Ok
+Все необходимые модули установлены
+2019-Mar-03 18:03:24 Обязательные параметры PHP (check_php_settings): Fail
+Ошибка! Значение max_input_vars должно быть не ниже 10000. Текущее значение: 1000
+2019-Mar-03 18:03:24 Модули веб-сервера (check_security): Ok
+Конфликтов не выявлено
+2019-Mar-03 18:03:24 Значения переменных сервера (check_server_vars): Ok
+Корректные
+2019-Mar-03 18:03:25 Сохранение сессии (check_session): Ok
+50% done
+2019-Mar-03 18:03:25 Сохранение сессии (check_session): Ok
+Успешно
+2019-Mar-03 18:03:25 Параметры настройки UTF (mbstring и константа BX_UTF) (check_mbstring): Ok
+Правильные. Сайт работает в однобайтовой кодировке
+2019-Mar-03 18:03:25 Служебные скрипты в корне сайта (check_install_scripts): Ok
+Отсутствуют
+2019-Mar-03 18:03:26 Работа с сокетами (check_socket): Ok
+Connection to mbbitrix.net:80	Success
+
+Успешно
+2019-Mar-03 18:03:26 Выполнение агентов на cron (check_bx_crontab): Warning
+Замечание. Агенты выполняются на хитах, рекомендуется перевести выполнение агентов на cron
+2019-Mar-03 18:03:26 Параметры подключения к базе данных (check_dbconn_settings): Ok
+Успешно
+2019-Mar-03 18:03:27 Лишний вывод в файлах конфигурации (check_dbconn): Ok
+Connection to mbbitrix.net:80	Success
+
+Успешно
+2019-Mar-03 18:03:27 Сохранение сессии без UserAgent (check_session_ua): Ok
+50% done
+Connection to mbbitrix.net:80	Success
+
+2019-Mar-03 18:03:27 Сохранение сессии без UserAgent (check_session_ua): Ok
+Connection to mbbitrix.net:80	Success
+
+Успешно
+2019-Mar-03 18:03:27 Настройки сайтов (check_sites): Ok
+Правильные
+2019-Mar-03 18:03:28 Передача объектов по ссылке (check_clone): Ok
+Успешно
+2019-Mar-03 18:03:28 Размер стека и pcre.recursion_limit (check_pcre_recursion): Ok
+Connection to mbbitrix.net:80	Success
+
+Успешно
+2019-Mar-03 18:03:28 Загрузка файла (check_upload): Ok
+Connection to mbbitrix.net:80	Success
+
+Успешно
+2019-Mar-03 18:03:28 Загрузка файла больше 4Мб (check_upload_big): Ok
+Connection to mbbitrix.net:80	Success
+
+Успешно
+2019-Mar-03 18:03:29 Загрузка файла через php://input (check_upload_raw): Ok
+Connection to mbbitrix.net:80	Success
+
+Успешно
+2019-Mar-03 18:03:29 Передача POST запроса с большим числом параметров (check_post): Ok
+Connection to mbbitrix.net:80	Success
+
+Успешно
+2019-Mar-03 18:03:29 Отправка почты (check_mail): Ok
+Успешно
+2019-Mar-03 18:03:30 Отправка почтового сообщения больше 64Кб (check_mail_big): Ok
+Успешно
+2019-Mar-03 18:03:30 Проверка на наличие неотправленных сообщений (check_mail_b_event): Ok
+Успешно
+2019-Mar-03 18:03:30 Внутреннее перенаправление (функция LocalRedirect) (check_localredirect): Ok
+50% done
+Connection to mbbitrix.net:80	Success
+
+2019-Mar-03 18:03:31 Внутреннее перенаправление (функция LocalRedirect) (check_localredirect): Ok
+Connection to mbbitrix.net:80	Success
+
+Успешно
+2019-Mar-03 18:03:31 Фактическое ограничение памяти (check_memory_limit): Ok
+20% done
+Connection to mbbitrix.net:80	Success
+
+2019-Mar-03 18:03:31 Фактическое ограничение памяти (check_memory_limit): Ok
+40% done
+Connection to mbbitrix.net:80	Success
+
+2019-Mar-03 18:03:31 Фактическое ограничение памяти (check_memory_limit): Ok
+60% done
+Connection to mbbitrix.net:80	Success
+
+2019-Mar-03 18:03:32 Фактическое ограничение памяти (check_memory_limit): Ok
+80% done
+Connection to mbbitrix.net:80	Success
+
+2019-Mar-03 18:03:32 Фактическое ограничение памяти (check_memory_limit): Ok
+Connection to mbbitrix.net:80	Success
+
+Не менее 256 М
+2019-Mar-03 18:03:33 Работа с файлами кеша (check_cache): Ok
+Успешно
+2019-Mar-03 18:03:33 Доступ к серверу обновлений (check_update): Ok
+Успешно
+2019-Mar-03 18:03:34 HTTP авторизация (check_http_auth): Ok
+Connection to mbbitrix.net:80	Success
+
+Успешно
+2019-Mar-03 18:03:34 Создание и запуск файла (check_exec): Ok
+Connection to mbbitrix.net:80	Success
+
+Успешно
+2019-Mar-03 18:03:34 Функция getimagesize для swf (check_getimagesize): Ok
+Успешно
+2019-Mar-03 18:03:34 Версия MySQL-сервера (check_mysql_bug_version): Ok
+Успешно
+2019-Mar-03 18:03:36 Время на БД и веб-сервере (check_mysql_time): Fail
+Ошибка! Время отличается на 14400 секунд
+2019-Mar-03 18:03:36 Режим работы MySQL (check_mysql_mode): Fail
+Ошибка! Переменная sql_mode в MySQL должна быть пустая, текущее значение: NO_ENGINE_SUBSTITUTION
+2019-Mar-03 18:03:36 Кодировка соединения (check_mysql_connection_charset): Ok
+character_set_connection=cp1251, collation_connection=cp1251_general_ci, character_set_results=cp1251
+Успешно
+2019-Mar-03 18:03:36 Кодировка базы данных (check_mysql_db_charset): Ok
+CHARSET=cp1251, COLLATION=cp1251_general_ci
+Успешно
+2019-Mar-03 18:03:40 Кодировки таблиц в БД (check_mysql_table_charset): Ok
+Успешно
+2019-Mar-03 18:03:40 Структура базы данных (check_mysql_table_structure): Ok
+0% done
+2019-Mar-03 18:03:40 Структура базы данных (check_mysql_table_structure): Ok
+2% done
+2019-Mar-03 18:03:41 Структура базы данных (check_mysql_table_structure): Ok
+5% done
+2019-Mar-03 18:03:45 Структура базы данных (check_mysql_table_structure): Ok
+8% done
+2019-Mar-03 18:03:53 Структура базы данных (check_mysql_table_structure): Ok
+11% done

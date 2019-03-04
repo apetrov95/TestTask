@@ -1,0 +1,110 @@
+
+
+/* Start:/bitrix/wizards/bitrix/eshop/css/panel.css?1551198956240*/
+div.bx-top-panel table.bx-pnbutton div.icon-wizard {background-image:url(/bitrix/wizards/bitrix/eshop/css/wizard.gif)}
+
+td.popupmenu div.popupitem .wizard {background-image:url(/bitrix/wizards/bitrix/eshop/css/wizard.gif);}
+td.popupmenu div.popupitem .wizard-clear {background-image:url(/bitrix/wizards/bitrix/eshop/css/wizard_clear.gif);}
+/* End */
+
+
+/* Start:/bitrix/templates/bitrixclear-master/css/reset.css?1500466306990*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* End */
+
+
+/* Start:/bitrix/templates/bitrixclear-master/css/mitus.css?1551628447362*/
+.tovar {
+     outline: 2px solid #000; /* Чёрная рамка */
+     border: 3px solid #fff; /* Белая рамка */
+     border-radius: 10px; /* Радиус скругления */
+ }
+.img {
+    outline: 2px solid #3e47af; /* Чёрная рамка */
+    border: 3px solid #ff77a7; /* Белая рамка */
+    border-radius: 10px; /* Радиус скругления */
+}
+.main_tovar {
+    padding: 10px;
+}
+/* End */
+
+
+/* Start:/bitrix/templates/bitrixclear-master/styles.css?15004663063*/
+п»ї
+/* End */
+
+
+/* Start:/bitrix/templates/bitrixclear-master/template_styles.css?1500466306202*/
+body{
+
+}
+
+*{
+	outline: none;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
+}
+
+.clearfix::after{
+	content: '';
+	clear: both;
+	display: block;
+}
+/* End */
+/* /bitrix/wizards/bitrix/eshop/css/panel.css?1551198956240 */
+/* /bitrix/templates/bitrixclear-master/css/reset.css?1500466306990 */
+/* /bitrix/templates/bitrixclear-master/css/mitus.css?1551628447362 */
+/* /bitrix/templates/bitrixclear-master/styles.css?15004663063 */
+/* /bitrix/templates/bitrixclear-master/template_styles.css?1500466306202 */

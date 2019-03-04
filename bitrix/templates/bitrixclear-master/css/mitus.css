@@ -1,0 +1,28 @@
+.tovar {
+     outline: 2px solid #000;
+     border: 3px solid #fff;
+     border-radius: 10px;
+ }
+.img {
+    outline: 2px solid #3e47af;
+    border: 3px solid #ff77a7;
+    border-radius: 10px;
+    text-align: center;
+}
+.main_tovar {
+    padding: 10px;
+}
+.chart {
+    width: 48px;
+    height: 48px;
+    background-image: url("/upload/img/chart.jpg");
+    background-size: 48px 48px;
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
+.chart p {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}

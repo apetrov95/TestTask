@@ -1,0 +1,1 @@
+<? $filesInfo = array("/bitrix/templates/eshop_bootstrap_green/components/bitrix/main.map/.default/style.css" => "15511989751187",); ?>

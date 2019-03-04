@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001551624915';
+$dateexpire = '001551668115';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:3:"SEL";a:5:{i:0;a:8:{s:10:"PRODUCT_ID";s:2:"94";s:4:"NAME";s:26:"Платье Модница на Прогулке";s:14:"CATALOG_XML_ID";s:0:"";s:14:"PRODUCT_XML_ID";N;s:5:"PRICE";s:9:"4999.0000";s:9:"AVG_PRICE";s:13:"4999.00000000";s:8:"QUANTITY";s:6:"1.0000";s:8:"CURRENCY";s:3:"RUB";}i:1;a:8:{s:10:"PRODUCT_ID";s:2:"81";s:4:"NAME";s:22:"Штаны Цветочная Поляна";s:14:"CATALOG_XML_ID";s:0:"";s:14:"PRODUCT_XML_ID";N;s:5:"PRICE";s:9:"4398.0000";s:9:"AVG_PRICE";s:13:"2199.00000000";s:8:"QUANTITY";s:6:"2.0000";s:8:"CURRENCY";s:3:"RUB";}i:2;a:8:{s:10:"PRODUCT_ID";s:3:"109";s:4:"NAME";s:18:"Платье Красная Фея";s:14:"CATALOG_XML_ID";s:0:"";s:14:"PRODUCT_XML_ID";N;s:5:"PRICE";s:9:"3999.0000";s:9:"AVG_PRICE";s:13:"3999.00000000";s:8:"QUANTITY";s:6:"1.0000";s:8:"CURRENCY";s:3:"RUB";}i:3;a:8:{s:10:"PRODUCT_ID";s:2:"85";s:4:"NAME";s:22:"Штаны Цветочная Поляна";s:14:"CATALOG_XML_ID";s:0:"";s:14:"PRODUCT_XML_ID";N;s:5:"PRICE";s:9:"2199.0000";s:9:"AVG_PRICE";s:13:"2199.00000000";s:8:"QUANTITY";s:6:"1.0000";s:8:"CURRENCY";s:3:"RUB";}i:4;a:8:{s:10:"PRODUCT_ID";s:2:"55";s:4:"NAME";s:20:"Штаны Полосатый Рейс";s:14:"CATALOG_XML_ID";s:0:"";s:14:"PRODUCT_XML_ID";N;s:5:"PRICE";s:9:"1999.0000";s:9:"AVG_PRICE";s:13:"1999.00000000";s:8:"QUANTITY";s:6:"1.0000";s:8:"CURRENCY";s:3:"RUB";}}s:6:"VIEWED";a:0:{}}}';
+return true;
+?>
